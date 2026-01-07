@@ -9,4 +9,5 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ## Tech & Tools Preference
 
 ### 💻 Languages 
-![Javascript](https://img.shields.io/badge/Javt-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
