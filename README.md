@@ -11,3 +11,7 @@ I am a passionate JavaScript student with a keen interest in learning and develo
 ### 💻 Languages 
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
+
+## Stats
+![Ano's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnoAno420&show_icons=true&theme=radical)
